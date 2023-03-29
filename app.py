@@ -3,5 +3,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, fard!"
+    return "Hi Astral can you join voice real quick"
  
